@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToyAirplaneShop", "ToyAirplaneShop.vcxproj", "{6EC5480D-494D-4F18-9377-526437996328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC5480D-494D-4F18-9377-526437996328}.Debug|x64.ActiveCfg = Debug|x64
+		{6EC5480D-494D-4F18-9377-526437996328}.Debug|x64.Build.0 = Debug|x64
+		{6EC5480D-494D-4F18-9377-526437996328}.Release|x64.ActiveCfg = Release|x64
+		{6EC5480D-494D-4F18-9377-526437996328}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A0A0A0-B0B0-C0C0-D0D0-E0E0E0E0E0E0}
+	EndGlobalSection
+EndGlobal
